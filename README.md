@@ -1,2 +1,2 @@
-# JSKhan
-Khan Academy JavaScript Projects
+# JS-Khan 
+My Khan Academy JavaScript Projects!
